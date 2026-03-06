@@ -6,7 +6,6 @@ author_profile: true
 header:
   overlay_image: /assets/images/header.jpg
   overlay_filter: 0.3
-  brightness, 0.5 = medium dark
   caption: "Sural Tai by [Francisco Henao Diaz]"
 masthead: true
 ---

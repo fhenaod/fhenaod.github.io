@@ -11,13 +11,13 @@ redirect_from:
 Schliep, K., Vidal-García, M., Biancani, L., Henao-Diaz, L. F., Ada, E., Justison, J. & Solís-Lemus, C. tanggle: An R package for the Visualization of Phylogenetic Networks. Accepted at Applications in Plant Sciences
 
 Fisher et al. (2026) Beyond species means – intraspecific contribution to global wood density variation. New Phytologist. 249, 2630-2651
-https://doi.org/10.1111/nph.70860
+(https://doi.org/10.1111/nph.70860)
 
 Title, P., Henao-Diaz, L. F., Zenil-Ferguson, R. & Vasconcelos, T. (2026) An Evolving view of Lineage Diversification. Systematic Biology
-https://doi.org/10.1093/sysbio/syaf086
+(https://doi.org/10.1093/sysbio/syaf086)
 
 Arenas-Castro, H. et al. (2024) Academic publishing requires linguistically inclusive policies. Proceeding Royal Society B. 291
-https://doi.org/10.1098/rspb.2023.2840
+(https://doi.org/10.1098/rspb.2023.2840)
 
 Gray, S. L., Lam, E. K, Henao-Diaz, L. F., Jalabert, C. & Kiran K Soma. (2024) Effect of a territorial challenge on the steroid profile of a juvenile songbird. Neuroscience 541, 118 - 132
 https://doi.org/10.1016/j.neuroscience.2024.01.008

@@ -24,7 +24,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-theme: mmistakes/minimal-mistakes
+theme: mmistakes-minimal-mistakes
 url: "https://fhenaod.github.io"
 baseurl: ""
 # Outputting

@@ -1,7 +1,9 @@
 main:
-  - title: "About"
-    url: /pages/about/
+  - title: "Main"
+    url: about
+    
  - title: "Research"
     url: /pages/research/
+    
  - title: "Publications"
     url: /pages/publications/

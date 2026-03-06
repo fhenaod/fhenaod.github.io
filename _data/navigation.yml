@@ -1,6 +1,7 @@
 main:
   - title: "Main"
     url: /about/
+    icon: "fas fa-home"
   - title: "Research"
     url: /research/
   - title: "Publications"

@@ -1,7 +1,7 @@
 ---
 title: "Main"
 layout: splash
-permalink: /about/
+permalink: /
 author_profile: true
 header:
   overlay_image: /assets/images/header.jpg

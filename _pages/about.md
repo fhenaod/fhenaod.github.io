@@ -1,8 +1,12 @@
 ---
 permalink: /about/
+layout: single
 title: "About"
+author_profile: true
 ---
+# Hi there!
+I am Francisco, currently I am a postdoctoral scholar working with [Brent Mishler](https://ucjeps.berkeley.edu/people/mishler.html). I'm housed in the [University and Jepson Herbaria](https://ucjeps.berkeley.edu/uc/) at the University of California (UC), Berkeley. I use Phylogenetic Comparative Methods to explore the interactions between species, adaptation, and ecological dynamics across temporal and geographical scales.  
+My research focuses on evolutionary dynamics in ecological systems. I am particularly interested in how evolutionary processes shape biodiversity and species interactions.
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+#
+![my_timeline](/files/mytimeline2.jpg)

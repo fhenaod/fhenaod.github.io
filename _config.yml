@@ -52,13 +52,13 @@ include:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-feed
+  #- jekyll-feed
   - jemoji
   - jekyll-include-cache
 
 author:
   name   : "Francisco Henao-Diaz"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio_pic.HEIC"
   bio    : "Postdoctoral Scholar at UC Berkeley"
   location: "University & Jepson Herbaria"
   links:
@@ -79,6 +79,7 @@ author:
     #  url: "https://instagram.com/"
 
 footer:
+  copyright: "Francisco Henao‑Díaz &copy; 2026"
   links:
    # - label: "Twitter"
    #   icon: "fab fa-fw fa-twitter-square"

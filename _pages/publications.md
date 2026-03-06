@@ -7,7 +7,7 @@ author_profile: true
 redirect_from: 
 ---
 
-# Peer-reviewed publications
+# Peer-reviewed
 Schliep, K., Vidal-García, M., Biancani, L., **Henao-Diaz, L. F.**, Ada, E., Justison, J. & Solís-Lemus, C. tanggle: An R package for the Visualization of Phylogenetic Networks. Accepted at *Applications in Plant Sciences*
 
 Fisher et al. (2026) Beyond species means – intraspecific contribution to global wood density variation. *New Phytologist*. 249, 2630-2651

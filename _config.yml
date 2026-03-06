@@ -24,9 +24,8 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes"
 theme: "mmistakes/minimal-mistakes"
-url: "http://127.0.0.1:4000"
+url: "https://fhenaod.github.io"
 baseurl: ""
 # Outputting
 permalink: /:categories/:title/

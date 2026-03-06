@@ -1,6 +1,6 @@
 main:
   - title: "Main"
-    url: /about/
+    url: /
     icon: "fas fa-home"
   - title: "Research"
     url: /research/

@@ -4,8 +4,10 @@ layout: splash
 permalink: /about/
 author_profile: true
 header:
-  overlay_color: "#5bb5aa"
-  overlay_filter: 0.5
+  overlay_image: /assets/images/header.jpg
+  overlay_filter: 0.3
+  brightness, 0.5 = medium dark
+  caption: "Sural Tai by [Francisco Henao Diaz]"
 masthead: true
 ---
 # Hi there!

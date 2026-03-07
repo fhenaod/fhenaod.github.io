@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a class="btn btn--primary" href="/assets/documents/cv-henao-diaz.pdf" download>
+<a class="btn btn--primary" href="/assets/documents/henao_diaz_cv.pdf" download>
   Download CV (PDF)
 </a>
 

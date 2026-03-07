@@ -9,7 +9,6 @@ redirect_from:
 
 <a class="btn btn--primary" href="/assets/documents/henao_diaz_cv.pdf" download>
   Download CV (PDF)
-  
 </a>
 
 Education
@@ -29,8 +28,10 @@ Appointments
 
 Teaching
 ======
-<ul>{% for post in site.teaching %}
+<ul>
+  {% for post in site.teaching %}
   {% include archive-single-cv.html %}
+  {% endfor %}
 </ul>
   
 2025 Fall				Co-Instructor: Advanced Topics in Phylogenetic Biogeography, University of California, Berkeley<br>

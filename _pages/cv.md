@@ -30,18 +30,23 @@ Teaching
   {% endfor %}
 </ul>
   
-•Co-Instructor: Advanced Topics in Phylogenetic Biogeography, University of California, Berkeley ― 2025 Fall<br>
-Teaching Assistant: Fundamentals of Biostatistics, University of British Columbia ― 2021 Winter<br> 
-Teaching Assistant: Phylogenetic Biology, University of British Columbia ― 2020 Fall<br>
-Adjunct Professor: General Botany (Laboratory), Universidad de Los Andes ― 2014, 1st Semester<br>
-Teaching Assistant: Thinking the History of Art, Universidad de Los Andes ― 2012, 2nd Semester<br>
-Tutor: Spanish Writing Center, Universidad de Los Andes ― 2012, 2nd Semester<br>
-Teaching Assistant: Biodiversity, Conservation & Development, Universidad de Los Andes ― 2011, 2nd Semester<br>
-Tutor: Spanish Writing Center, Universidad de Los Andes ― 2011, 2nd Semester<br>
-Monitor: Ecology Laboratory, Universidad de Los Andes ― 2010, 2nd Semester<br>
+•Co-Instructor: *Advanced Topics in Phylogenetic Biogeography*, University of California, Berkeley ― 2025 Fall<br>
+•Teaching Assistant: *Fundamentals of Biostatistics*, University of British Columbia ― 2021 Winter<br> 
+•Teaching Assistant: *Phylogenetic Biology*, University of British Columbia ― 2020 Fall<br>
+•Adjunct Professor: *General Botany (Laboratory)*, Universidad de Los Andes ― 2014, 1st Semester<br>
+•Teaching Assistant: *Thinking the History of Art*, Universidad de Los Andes ― 2012, 2nd Semester<br>
+•Tutor: Spanish Writing Center, Universidad de Los Andes ― 2012, 2nd Semester<br>
+•Teaching Assistant: *Biodiversity, Conservation & Development*, Universidad de Los Andes ― 2011, 2nd Semester<br>
+•Tutor: Spanish Writing Center, Universidad de Los Andes ― 2011, 2nd Semester<br>
+•Monitor: Ecology Laboratory, Universidad de Los Andes ― 2010, 2nd Semester<br>
   
 Service and leadership
 ======
+* Commmitees <br>
+ASN Representative for the joint ASN, SSE, and ESE meeting Montreal 2024<br>
+Grad student representative in the Biodiversity Data Scientist Faculty Search Committee (2020 - 2021) <br>
+Scientific committee member III Colombian Symposium of Primatology. IV Colombian Zoology Congress. Cartagena, Colombia (2014) <br>
+
 * Journal Reviewer:<br>
 Current Biology, Ecology Letters, Evolution, Evolution Letters, J Biogeography, Methods in Ecology and Evolution, PLoS Biology, Proceeding of Royal Society B, Revista de Biología Tropical, Revista de la Academia Colombiana de Ciencias Exactas, Físicas y Naturales, Systematic Botany
 
@@ -54,7 +59,8 @@ Semana Sostenible: *Conozca dónde habitan los primates en Colombia* [link](http
 Science Daily: *In the tree of life, youth has its advantages* [link](https://www.sciencedaily.com/releases/2019/03/190326160455.htm)<br>
 El Espectador: *El mapa de primates que 120 personas ayudaron a construir* [link](https://www.elespectador.com/noticias/medio-ambiente/el-mapa-de-primates-que-120-personas-ayudaron-a-construir/)<br>
 
-Public Outreach (Videos with subtitles in Spanish)<br>
+Public Outreach<br>
+* The Effort to Remember [link](https://www.youtube.com/watch?v=vyzAS0ukPe8)
 * Patterns in Evolution: [link](https://www.youtube.com/watch?v=QX4RlDVIBWw)<br>
 * The Living Data Project: [link](https://www.youtube.com/watch?v=BfsVS7DVX-g)<br>
 

@@ -6,14 +6,15 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Education
 ======
-2022			Ph.D Zoology, University of British Columbia, Vancouver, Canada<br>
-				Supervisor: Matthew W. Pennell<br><br>
-2012			M.Sc. Biological Sciences, Universidad de Los Andes, Bogotá, Colombia<br>
-				Supervisor: Pablo R. Stevenson<br><br>
-2010			B.Sc. Biology, Universidad de Los Andes, Bogotá, Colombia<br>
+2022&nbsp;&nbsp;&nbsp;&nbsp;Ph.D Zoology, University of British Columbia, Vancouver, Canada<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Matthew W. Pennell<br><br>
+2012&nbsp;&nbsp;&nbsp;&nbsp;M.Sc. Biological Sciences, Universidad de Los Andes, Bogotá, Colombia<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Pablo R. Stevenson<br><br>
+2010&nbsp;&nbsp;&nbsp;&nbsp;B.Sc. Biology, Universidad de Los Andes, Bogotá, Colombia<br>
 
 Appointments
 ======
@@ -30,7 +31,7 @@ Teaching
   {% endfor %}
 </ul>
   
-2025 Fall&nbsp;&nbsp;&nbsp;&nbsp;Co-Instructor: Advanced Topics in Phylogenetic Biogeography, University of California, Berkeley<br>
+2025 Fall				Co-Instructor: Advanced Topics in Phylogenetic Biogeography, University of California, Berkeley<br>
 2021 Winter				Teaching Assistant: Fundamentals of Biostatistics, University of British Columbia.<br> 
 2020 Fall				Teaching Assistant: Phylogenetic Biology, University of British Columbia.<br>
 2014 – 1st Semester 	Adjunct Professor: General Botany (Laboratory), Universidad de Los Andes<br>
@@ -48,7 +49,6 @@ Current Biology, Ecology Letters, Evolution, Evolution Letters, J Biogeography, 
 
 Media and Outreach
 ======
-
 2023
 > Research Highlight: [link](https://www.nature.com/articles/s41559-023-02146-1)<br>
 2020

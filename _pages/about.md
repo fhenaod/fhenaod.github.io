@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 header:
   overlay_image: /assets/images/sural_header.jpeg
-  overlay_filter: 0.3
+  overlay_filter: 0.2
   caption: "Sural Tai by Francisco Henao Diaz"
 masthead: true
 ---
@@ -14,5 +14,5 @@ I am Francisco, currently I am a postdoctoral scholar working with [Brent Mishle
 I use Phylogenetic Comparative Methods to explore the interactions between species, adaptation, and ecological dynamics across temporal and geographical scales.  
 My research focuses on evolutionary dynamics in ecological systems. I am particularly interested in how evolutionary processes shape biodiversity and species interactions.
 
-Feel free to contact me to talk about research and collaborations !!
+Feel free to contact me to talk about research and collaborations !!<br>
 fhenaod[at]berkeley[dot]edu

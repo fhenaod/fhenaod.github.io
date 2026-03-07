@@ -7,10 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<a class="btn btn--primary" href="/assets/documents/henao_diaz_cv.pdf" download>
-  Download CV (PDF)
-</a>
-
 Education
 ======
 2022			Ph.D Zoology, University of British Columbia, Vancouver, Canada<br>
@@ -34,7 +30,7 @@ Teaching
   {% endfor %}
 </ul>
   
-2025 Fall				Co-Instructor: Advanced Topics in Phylogenetic Biogeography, University of California, Berkeley<br>
+2025 Fall&nbsp;&nbsp;&nbsp;&nbsp;Co-Instructor: Advanced Topics in Phylogenetic Biogeography, University of California, Berkeley<br>
 2021 Winter				Teaching Assistant: Fundamentals of Biostatistics, University of British Columbia.<br> 
 2020 Fall				Teaching Assistant: Phylogenetic Biology, University of British Columbia.<br>
 2014 – 1st Semester 	Adjunct Professor: General Botany (Laboratory), Universidad de Los Andes<br>
@@ -53,12 +49,20 @@ Current Biology, Ecology Letters, Evolution, Evolution Letters, J Biogeography, 
 Media and Outreach
 ======
 
-2023	Research Highlight: [link](https://www.nature.com/articles/s41559-023-02146-1)<br>
-2020	El Espectador: [link](https://www.elespectador.com/noticias/medio-ambiente/listo-el-primer-atlas-de-primates-de-colombia/)<br>
-		Semana Sostenible: [link](https://sostenibilidad.semana.com/medio-ambiente/articulo/donde-habitan-los-primates-en-colombia-colombia-hoy/53161)<br>
-2019 	Science Daily: [link](https://www.sciencedaily.com/releases/2019/03/190326160455.htm)<br>
-2018	El Espectador: [link](https://www.elespectador.com/noticias/medio-ambiente/el-mapa-de-primates-que-120-personas-ayudaron-a-construir/)<br>
+2023
+> Research Highlight: [link](https://www.nature.com/articles/s41559-023-02146-1)<br>
+2020
+> El Espectador: [link](https://www.elespectador.com/noticias/medio-ambiente/listo-el-primer-atlas-de-primates-de-colombia/)<br>
+> Semana Sostenible: [link](https://sostenibilidad.semana.com/medio-ambiente/articulo/donde-habitan-los-primates-en-colombia-colombia-hoy/53161)<br>
+2019
+> Science Daily: [link](https://www.sciencedaily.com/releases/2019/03/190326160455.htm)<br>
+2018
+>El Espectador: [link](https://www.elespectador.com/noticias/medio-ambiente/el-mapa-de-primates-que-120-personas-ayudaron-a-construir/)<br>
 
 *Public Outreach (Videos with subtitles in Spanish)<br>
-2022 	Patterns in Evolution: [link](https://www.youtube.com/watch?v=QX4RlDVIBWw)<br>
+>Patterns in Evolution: [link](https://www.youtube.com/watch?v=QX4RlDVIBWw)<br>
 		The Living Data Project: [link](https://www.youtube.com/watch?v=BfsVS7DVX-g)<br>
+
+<a class="btn btn--primary" href="/assets/documents/henao_diaz_cv.pdf" download>
+  Download CV (PDF)
+</a>

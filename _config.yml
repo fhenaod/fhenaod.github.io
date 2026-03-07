@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Francisco Henao-Diaz"
-  avatar : "/assets/images/bio_pic.HEIC"
+  avatar : "/assets/images/bio_pic.jpg"
   bio    : "Postdoctoral Scholar at UC Berkeley"
   location: "University & Jepson Herbaria"
   links:

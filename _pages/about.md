@@ -4,9 +4,9 @@ layout: splash
 permalink: /
 author_profile: true
 header:
-  overlay_image: /assets/images/sural_header.HEIC
+  overlay_image: /assets/images/sural_header.jpeg
   overlay_filter: 0.3
-  caption: "Sural Tai by [Francisco Henao Diaz]"
+  caption: "Sural Tai by Francisco Henao Diaz"
 masthead: true
 ---
 # Hi there!

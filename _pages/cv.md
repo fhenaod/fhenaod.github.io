@@ -9,18 +9,18 @@ redirect_from:
 
 Education
 ======
-2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D Zoology, University of British Columbia, Vancouver, Canada<br>
+* Ph.D Zoology, University of British Columbia, Vancouver, Canada ― 2022<br>
 Supervisor: Matthew W. Pennell<br><br>
-2012 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc. Biological Sciences, Universidad de Los Andes, Bogotá, Colombia<br>
+* M.Sc. Biological Sciences, Universidad de Los Andes, Bogotá, Colombia ― 2012 <br>
 Supervisor: Pablo R. Stevenson<br><br>
-2010 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. Biology, Universidad de Los Andes, Bogotá, Colombia<br>
+* B.Sc. Biology, Universidad de Los Andes, Bogotá, Colombia ― 2010<br>
 
 Appointments
 ======
-2024 – present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Postdoctoral Scholar, University of California - Berkeley<br>
-				Supervisor: Brent D. Mishler<br><br>
-2022 – 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chicago Postdoctoral Fellow, University of Chicago<br>
-				Supervisor: Trevor D. Price<br><br>
+* Postdoctoral Scholar, University of California, Berkeley (2024 – present)<br>
+Supervisor: Brent D. Mishler<br><br>
+* Chicago Postdoctoral Fellow, University of Chicago (2022 – 2024)<br>
+Supervisor: Trevor D. Price<br><br>
 
 Teaching
 ======
@@ -30,15 +30,15 @@ Teaching
   {% endfor %}
 </ul>
   
-2025 Fall &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Co-Instructor: Advanced Topics in Phylogenetic Biogeography, University of California, Berkeley<br>
-2021 Winter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teaching Assistant: Fundamentals of Biostatistics, University of British Columbia.<br> 
-2020 Fall &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teaching Assistant: Phylogenetic Biology, University of British Columbia.<br>
-2014 – 1st Semester &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Adjunct Professor: General Botany (Laboratory), Universidad de Los Andes<br>
-2012 – 2nd Semester &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teaching Assistant: Thinking the History of Art, Universidad de Los Andes<br>
-2012 – 2nd Semester &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tutor: Spanish Writing Center, Universidad de Los Andes<br>
-2011 – 2nd Semester &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teaching Assistant: Biodiversity, Conservation & Development, Universidad de Los Andes<br>
-2011 – 2nd Semester &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tutor: Spanish Writing Center, Universidad de Los Andes<br>
-2010 – 2nd Semester &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monitor: Ecology Laboratory, Universidad de Los Andes<br>
+•Co-Instructor: Advanced Topics in Phylogenetic Biogeography, University of California, Berkeley ― 2025 Fall<br>
+Teaching Assistant: Fundamentals of Biostatistics, University of British Columbia ― 2021 Winter<br> 
+Teaching Assistant: Phylogenetic Biology, University of British Columbia ― 2020 Fall<br>
+Adjunct Professor: General Botany (Laboratory), Universidad de Los Andes ― 2014, 1st Semester<br>
+Teaching Assistant: Thinking the History of Art, Universidad de Los Andes ― 2012, 2nd Semester<br>
+Tutor: Spanish Writing Center, Universidad de Los Andes ― 2012, 2nd Semester<br>
+Teaching Assistant: Biodiversity, Conservation & Development, Universidad de Los Andes ― 2011, 2nd Semester<br>
+Tutor: Spanish Writing Center, Universidad de Los Andes ― 2011, 2nd Semester<br>
+Monitor: Ecology Laboratory, Universidad de Los Andes ― 2010, 2nd Semester<br>
   
 Service and leadership
 ======

@@ -6,8 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 Education
 ======
 2022&nbsp;&nbsp;&nbsp;&nbsp;Ph.D Zoology, University of British Columbia, Vancouver, Canada<br>
@@ -49,19 +48,16 @@ Current Biology, Ecology Letters, Evolution, Evolution Letters, J Biogeography, 
 
 Media and Outreach
 ======
-2023
-> Research Highlight: [link](https://www.nature.com/articles/s41559-023-02146-1)<br>
+2023 Research Highlight: [link](https://www.nature.com/articles/s41559-023-02146-1)<br>
 2020
-> El Espectador: [link](https://www.elespectador.com/noticias/medio-ambiente/listo-el-primer-atlas-de-primates-de-colombia/)<br>
-> Semana Sostenible: [link](https://sostenibilidad.semana.com/medio-ambiente/articulo/donde-habitan-los-primates-en-colombia-colombia-hoy/53161)<br>
-2019
-> Science Daily: [link](https://www.sciencedaily.com/releases/2019/03/190326160455.htm)<br>
-2018
->El Espectador: [link](https://www.elespectador.com/noticias/medio-ambiente/el-mapa-de-primates-que-120-personas-ayudaron-a-construir/)<br>
+* El Espectador: [link](https://www.elespectador.com/noticias/medio-ambiente/listo-el-primer-atlas-de-primates-de-colombia/)<br>
+* Semana Sostenible: [link](https://sostenibilidad.semana.com/medio-ambiente/articulo/donde-habitan-los-primates-en-colombia-colombia-hoy/53161)<br>
+2019 Science Daily: [link](https://www.sciencedaily.com/releases/2019/03/190326160455.htm)<br>
+2018 El Espectador: [link](https://www.elespectador.com/noticias/medio-ambiente/el-mapa-de-primates-que-120-personas-ayudaron-a-construir/)<br>
 
-*Public Outreach (Videos with subtitles in Spanish)<br>
->Patterns in Evolution: [link](https://www.youtube.com/watch?v=QX4RlDVIBWw)<br>
-		The Living Data Project: [link](https://www.youtube.com/watch?v=BfsVS7DVX-g)<br>
+Public Outreach (Videos with subtitles in Spanish)<br>
+* Patterns in Evolution: [link](https://www.youtube.com/watch?v=QX4RlDVIBWw)<br>
+* The Living Data Project: [link](https://www.youtube.com/watch?v=BfsVS7DVX-g)<br>
 
 <a class="btn btn--primary" href="/assets/documents/henao_diaz_cv.pdf" download>
   Download CV (PDF)

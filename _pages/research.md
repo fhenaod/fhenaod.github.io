@@ -28,3 +28,7 @@ In this long-term study, **I am evaluating a set of eco-evolutionary processes i
 By integrating evolutionary ecology and genomic approaches, I aim to understand why and how species distributions are set along elevational gradients. 
 This understanding will provide insights into the potential responses of trees in a montane system that has experienced a 1.2ºC increase in its mean temperature over the last century. My work is geared toward the dominant Himalayan birch, which establishes most treelines in the region and is a key resource for insects, birds, and humans. To achieve this, I integrate vegetation plots, microclimatic and phenological data, and functional traits to test whether biotic interactions primarily determine warmer limits, while abiotic factors set colder limits in two localities in the Northwestern Himalayas. Although both localities have a comparable elevational range, they offer a within-region comparison, as Manali receives summer monsoon rains while Sural is a drier locality set in the Himalayan rain shadow
 
+<figure>
+  <img src="/assets/images/pan_plot.png" alt="Field research in NW Himalaya" />
+  <figcaption> A. Tree height along elevations, B. Two vegetation plots with tree's features, C. Microclimatic data. Fig by Francisco Henao‑Díaz.</figcaption>
+</figure>

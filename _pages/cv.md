@@ -40,7 +40,10 @@ Teaching
 •Tutor: Spanish Writing Center, Universidad de Los Andes ― 2012, 2nd Semester<br>
 •Teaching Assistant: **Biodiversity, Conservation & Development**, Universidad de Los Andes ― 2011, 2nd Semester<br>
 •Tutor: Spanish Writing Center, Universidad de Los Andes ― 2011, 2nd Semester<br>
-•Monitor: Ecology Laboratory, Universidad de Los Andes ― 2010, 2nd Semester
+•Monitor: Ecology Laboratory, Universidad de Los Andes ― 2010, 2nd Semester<br>
+
+Invited Lecturer: **Advanced ecology** (Universidad de Los Andes), **Ecology in the Anthropocene** (U Chicago), **The Darwinian Revolution** (UC Berkeley).
+
 <br><br>
   
 Service and leadership

@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 # Peer-reviewed
+Daru, B., Nichodemus, C. & **Henao-Diaz, L. F**. Biogeographic processes underlaying global plant assembly. Accepted at *Science* 
+
 Schliep, K., Vidal-García, M., Biancani, L., **Henao-Diaz, L. F.**, Ada, E., Justison, J. & Solís-Lemus, C. tanggle: An R package for the Visualization of Phylogenetic Networks. Accepted at *Applications in Plant Sciences*
 
 Fisher et al. (2026) Beyond species means – intraspecific contribution to global wood density variation. *New Phytologist*. 249, 2630-2651
@@ -40,7 +42,7 @@ Louca, S., **Henao-Diaz, L. F.** & Pennell, M. (2022) The scaling of diversifica
 Stevenson, P. R., Cortés, C., Reyes, R., Paramero, R., Uni, J. F., Peña-Núñez, J. L. & **Henao-Diaz, L. F.** (2022). Avifauna asociada a bosques primarios y secundarios del Parque Nacional Natural Cueva de Los Guácharos, Colombia. *Actualidades Biológicas*. 44(116), 1‐18. DOI: 10.17533/udea.acbi.v44n116a01
 [https://revistas.udea.edu.co/index.php/actbio/article/view/344856](https://revistas.udea.edu.co/index.php/actbio/article/view/344856)
 
-Harmon, L. J., Pennell, M. W., **Henao-Diaz, L. F.**, Rolland, J., Sipley, B. & Uyeda, J. C. (2021) The Causes and consequences of the ubiquitous time-scaling of all evolutionary rates. *Annual Review of Ecology and Systematics*. 52, 587 – 609[https://doi.org/10.1146/annurev-ecolsys-011921-023644] (https://doi.org/10.1146/annurev-ecolsys-011921-023644)
+Harmon, L. J., Pennell, M. W., **Henao-Diaz, L. F.**, Rolland, J., Sipley, B. & Uyeda, J. C. (2021) The Causes and consequences of the ubiquitous time-scaling of all evolutionary rates. *Annual Review of Ecology and Systematics*. 52, 587 – 609[https://doi.org/10.1146/annurev-ecolsys-011921-023644](https://doi.org/10.1146/annurev-ecolsys-011921-023644)
 
 Germain, R. M., Hart, S. P., Turcotte, M. M., Otto, S. P., Sakarchi, J., Rolland, J., Usui, T., Angert, A. L., Schluter, D., Bassar, R. D., Waters, M. T., **Henao-Diaz, L. F.**, & Siepielski, A. M. (2020). On the Origin of Coexisting Species. *Trends in Ecology & Evolution*. 36(4), 284 – 293. 
 [https://doi.org/10.1016/j.tree.2020.11.006](https://doi.org/10.1016/j.tree.2020.11.006)
@@ -50,18 +52,16 @@ Germain, R. M., Hart, S. P., Turcotte, M. M., Otto, S. P., Sakarchi, J., Rolland
 
 **Henao-Diaz, L. F.** & Sinclair, A. R. E. (2020). Long term monitoring of Serengeti bird species occurrence, abundance, and habitat. *Ecology* 101(2). [10.1002/ecy.2919](10.1002/ecy.2919)
 
-**Henao-Diaz, L. F.**, Harmon, Sugawara, M. T., L. J., Miller, E., & Pennell, M. W. (2019). Reply to Wiens and Scholl: The time dependency of diversification rates is a widely observed phenomenon. *PNAS* 116(49), 24401. [10.1073/pnas.1917189116] (10.1073/pnas.1917189116)
+**Henao-Diaz, L. F.**, Harmon, Sugawara, M. T., L. J., Miller, E., & Pennell, M. W. (2019). Reply to Wiens and Scholl: The time dependency of diversification rates is a widely observed phenomenon. *PNAS* 116(49), 24401. [10.1073/pnas.1917189116](10.1073/pnas.1917189116)
 
 **Henao-Diaz, L. F.**, Harmon, L. J., Miller, E., Sugawara, M. T., & Pennell, M. W. (2019). Macroevolutionary diversification rates show time-dependency. *PNAS* 116(15), 7403-7408. [10.1073/pnas.1818058116](10.1073/pnas.1818058116)
 
 **Henao Díaz, F.**, Arroyo, S., Cárdenas-Posada, G., Fernández, M., López, J. P., Martínez, D. C., Mendoza, J. S., Mondragón-Botero, A., León, O., Pulido-Herrera, K. L., Rodríguez-Cerón N. & Madriñán, S. (2019). Caracterización biológica en la zona de transición bosque-páramo del Complejo de Páramos Chingaza, Colombia. *Biota Colombiana*, 20(1) 132- 145. [10.21068/c2019.v20n01a10](10.21068/c2019.v20n01a10)
-Biotic characterization of the forest-paramo transition zone in Chingaza Páramo Complex, Colombia
 
 Stevenson P. R., Cardona, L., Acosta-Rojas, D., **Henao-Diaz, F.** & Cardenas, S. (2017). Diet of Oilbirds in Cueva de Los Guácharos National Park (Colombia): temporal variation in dispersal quantity, fruit choice and seed morphology. *Neotropical Ornitology*. 28, 295 – 307.
 [http://journals.sfu.ca/ornneo/index.php/ornneo/article/view/243](http://journals.sfu.ca/ornneo/index.php/ornneo/article/view/243)
 
 Stevenson, P. R., M. A. Ramírez, L. F. Casas & F. **Henao-Díaz.** (2017). Forestación de bosques en sabanas de la altillanura colombiana: relevancia de las condiciones ambientales para el establecimiento de plántulas. *Biota Colombiana* 18(Suplemento 1): 99-109. [https://doi.org/10.21068/c2017.v18s01a06](https://doi.org/10.21068/c2017.v18s01a06)
-Afforestation of savanna forests of the Colombian altillanura: relevance of the environmental conditions for the establishment of seedlings
 
 Aldana, Ana M., Villanueva, B., Cano, Á., Correa-Gómez, Diego F., Umaña María N., Casas, Luisa F., Cárdenas, S., **Henao-Diaz, F.** & Stevenson P.R. (2017). Drivers of biomass stocks in Northwestern South American forests: complementing information for the Neotropics. *Forest Ecology and Management*. 389, 86-95 DOI 10.1016/j.foreco.2016.12.023
 [http://www.sciencedirect.com/science/article/pii/S0378112716312622](http://www.sciencedirect.com/science/article/pii/S0378112716312622)
@@ -70,7 +70,7 @@ Casas, L., Aldana, A. **Henao-Diaz, F.** & Stevenson P.R. (2017). Specific gravi
 
 **Henao-Diaz, F.** & Stevenson P.R. (2015). Neutral Theory Overestimates Extinction Times In Non-Human Primates. *International Journal of Primatology*. 36(4), 790-801. DOI 10.1007/s10764-015-9854-0 [http://link.springer.com/article/10.1007%2Fs10764-015-9854-0](http://link.springer.com/article/10.1007%2Fs10764-015-9854-0)
 
-**Henao-Diaz, F.**, Pacheco-Fernandez, N., Argüello-Bernal, S. Moreno-Arocha, M.M. & Stevenson P. (2012). Patrones de diversidad de Epífitas en Bosques de Tierras Bajas y Subandinos. *Colombia Forestal**. 15(2). DOI 10.14483/udistrital.jour.colomb.for.2012.2.a02 [http://revistas.udistrital.edu.co/ojs/index.php/colfor/article/view/3758](http://revistas.udistrital.edu.co/ojs/index.php/colfor/article/view/3758)
+**Henao-Diaz, F.**, Pacheco-Fernandez, N., Argüello-Bernal, S. Moreno-Arocha, M.M. & Stevenson P. (2012). Patrones de diversidad de Epífitas en Bosques de Tierras Bajas y Subandinos. ***Colombia Forestal**. 15(2). DOI 10.14483/udistrital.jour.colomb.for.2012.2.a02 [http://revistas.udistrital.edu.co/ojs/index.php/colfor/article/view/3758](http://revistas.udistrital.edu.co/ojs/index.php/colfor/article/view/3758)
 
 <br/>
 

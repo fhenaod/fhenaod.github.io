@@ -7,7 +7,7 @@ permalink: /research/
 # Spatial Phylogenetics of the North American Flora
 <figure>
   <img src="/assets/images/canaper_mcc_sd_prun_mthd-rand_imp.png" alt="Spatial Phylogenetics" />
-  <figcaption> Robustness of analyses under different pruned-only and imputed trees. Although tree performance was higher in pruned-only trees, performance with larger percentages of missing tips decreased faster than in imputed datasets. Points are mean values across 100 simulations (except in spatially-based pruning), whiskers show standard deviation. Source: Henao‑Díaz et al. </figcaption>
+  <figcaption> Robustness for CANAPE results as a function of the proportion of tips removed, using random, phylogenetically-biased, or spatially-biased pruning, showing different imputation approaches. Points are mean values across 100 simulations, whiskers show standard deviation. Source: Henao‑Díaz et al. in Review </figcaption>
 </figure>
 
 **Aim:** Spatial phylogenetic tools offer an evolutionary and geographical picture of biodiversity by characterizing its multidimensional facets. Although phylogenetic trees are becoming increasingly comprehensive, they still represent only a fraction of the known terminal taxa in any biota. As an attempt to improve sample coverage, missing taxa are frequently imputed into a backbone phylogeny using their taxonomic classification. Here, we evaluated the effects of both incomplete taxon sampling and phylogenetic imputation on the quantitative, spatial patterns of phylodiversity.<br>

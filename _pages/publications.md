@@ -9,7 +9,7 @@ redirect_from:
 
 # Peer-reviewed
 Daru, B., Nichodemus, C. & **Henao-Diaz, L. F**. Biogeographic processes underlaying global plant assembly. *Science* 392, 845-849
-[10.1126/science.adv6172](10.1126/science.adv6172)
+[https://doi.org/10.1126/science.adv6172](https://doi.org/10.1126/science.adv6172)
 
 Schliep, K., Vidal-García, M., Biancani, L., **Henao-Diaz, L. F.**, Ada, E., Justison, J. & Solís-Lemus, C. tanggle: An R package for the Visualization of Phylogenetic Networks. *Applications in Plant Sciences* 14(3): e70060
 [https://doi.org/10.1002/aps3.70060](https://doi.org/10.1002/aps3.70060)

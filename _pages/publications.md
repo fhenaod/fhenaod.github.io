@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 # Peer-reviewed
-Daru, B., Nichodemus, C. & **Henao-Diaz, L. F**. Biogeographic processes underlaying global plant assembly. Accepted at *Science* 
+Daru, B., Nichodemus, C. & **Henao-Diaz, L. F**. Biogeographic processes underlaying global plant assembly. *Science* 392, 845-849
+[10.1126/science.adv6172](10.1126/science.adv6172)
 
-Schliep, K., Vidal-García, M., Biancani, L., **Henao-Diaz, L. F.**, Ada, E., Justison, J. & Solís-Lemus, C. tanggle: An R package for the Visualization of Phylogenetic Networks. Accepted at *Applications in Plant Sciences*
+Schliep, K., Vidal-García, M., Biancani, L., **Henao-Diaz, L. F.**, Ada, E., Justison, J. & Solís-Lemus, C. tanggle: An R package for the Visualization of Phylogenetic Networks. *Applications in Plant Sciences* 14(3): e70060
+[https://doi.org/10.1002/aps3.70060](https://doi.org/10.1002/aps3.70060)
 
 Fisher et al. (2026) Beyond species means – intraspecific contribution to global wood density variation. *New Phytologist*. 249, 2630-2651
 [https://doi.org/10.1111/nph.70860](https://doi.org/10.1111/nph.70860)

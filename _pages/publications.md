@@ -8,10 +8,13 @@ redirect_from:
 ---
 
 # Peer-reviewed
-Daru, B., Nichodemus, C. & **Henao-Diaz, L. F**. Biogeographic processes underlaying global plant assembly. *Science* 392, 845-849
+**Henao-Diaz, L. F.**, Laffan, S.W. & Mishler, B. (2026) The effects of missing taxa and phylogenetic imputation on spatial phylogenetic studies. Global Ecology and Biogeography 35(10): e70323
+[http://dx.doi.org/10.1111/geb.70323](http://dx.doi.org/10.1111/geb.70323)
+
+Daru, B., Nichodemus, C. & **Henao-Diaz, L. F**. (2026) Biogeographic processes underlaying global plant assembly. *Science* 392, 845-849
 [https://doi.org/10.1126/science.adv6172](https://doi.org/10.1126/science.adv6172)
 
-Schliep, K., Vidal-García, M., Biancani, L., **Henao-Diaz, L. F.**, Ada, E., Justison, J. & Solís-Lemus, C. tanggle: An R package for the Visualization of Phylogenetic Networks. *Applications in Plant Sciences* 14(3): e70060
+Schliep, K., Vidal-García, M., Biancani, L., **Henao-Diaz, L. F.**, Ada, E., Justison, J. & Solís-Lemus, C. (2026) tanggle: An R package for the Visualization of Phylogenetic Networks. *Applications in Plant Sciences* 14(3): e70060
 [https://doi.org/10.1002/aps3.70060](https://doi.org/10.1002/aps3.70060)
 
 Fisher et al. (2026) Beyond species means – intraspecific contribution to global wood density variation. *New Phytologist*. 249, 2630-2651

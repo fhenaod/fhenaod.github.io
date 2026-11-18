@@ -3,11 +3,21 @@ title: "Research"
 layout: single
 permalink: /research/
 ---
+# 
 
 # Spatial Phylogenetics of the North American Flora
+**Understanding phylo-endemicity in woody conifers across North America*
+<figure>
+  <img src="/assets/images/rand_ses_conif_10.png" alt="Spatial Phylogenetics" />
+  <figcaption> Standardized effect size alpha-phylodiversity metrics. Phylogenetic Diversity (PD), Relative Phylogenetic Diversity (RPD), Phylogenetic Endemism (PE), Relative Phylogenetic Endemism (RPE). Source: Henao‑Díaz et al. in prep </figcaption>
+</figure>
+
+
+**The effects of missing taxa and phylogenetic imputation on spatial phylogenetic studies**
+
 <figure>
   <img src="/assets/images/canaper_mcc_sd_prun_mthd-rand_imp.png" alt="Spatial Phylogenetics" />
-  <figcaption> Robustness for CANAPE results as a function of the proportion of tips removed, using random, phylogenetically-biased, or spatially-biased pruning, showing different imputation approaches. Points are mean values across 100 simulations, whiskers show standard deviation. Source: Henao‑Díaz et al. in Review </figcaption>
+  <figcaption> Robustness for CANAPE results as a function of the proportion of tips removed, using random, phylogenetically-biased, or spatially-biased pruning, showing different imputation approaches. Points are mean values across 100 simulations, whiskers show standard deviation. Source: Henao‑Díaz et al. 2026 GEB </figcaption>
 </figure>
 
 **Aim:** Spatial phylogenetic tools offer an evolutionary and geographical picture of biodiversity by characterizing its multidimensional facets. Although phylogenetic trees are becoming increasingly comprehensive, they still represent only a fraction of the known terminal taxa in any biota. As an attempt to improve sample coverage, missing taxa are frequently imputed into a backbone phylogeny using their taxonomic classification. Here, we evaluated the effects of both incomplete taxon sampling and phylogenetic imputation on the quantitative, spatial patterns of phylodiversity.<br>

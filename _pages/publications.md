@@ -47,7 +47,7 @@ Louca, S., **Henao-Diaz, L. F.** & Pennell, M. (2022) The scaling of diversifica
 Stevenson, P. R., Cortés, C., Reyes, R., Paramero, R., Uni, J. F., Peña-Núñez, J. L. & **Henao-Diaz, L. F.** (2022). Avifauna asociada a bosques primarios y secundarios del Parque Nacional Natural Cueva de Los Guácharos, Colombia. *Actualidades Biológicas*. 44(116), 1‐18. DOI: 10.17533/udea.acbi.v44n116a01
 [https://revistas.udea.edu.co/index.php/actbio/article/view/344856](https://revistas.udea.edu.co/index.php/actbio/article/view/344856)
 
-Harmon, L. J., Pennell, M. W., **Henao-Diaz, L. F.**, Rolland, J., Sipley, B. & Uyeda, J. C. (2021) The Causes and consequences of the ubiquitous time-scaling of all evolutionary rates. *Annual Review of Ecology and Systematics*. 52, 587 – 609[https://doi.org/10.1146/annurev-ecolsys-011921-023644](https://doi.org/10.1146/annurev-ecolsys-011921-023644)
+Harmon, L. J., Pennell, M. W., **Henao-Diaz, L. F.**, Rolland, J., Sipley, B. & Uyeda, J. C. (2021) The Causes and consequences of the ubiquitous time-scaling of all evolutionary rates. *Annual Review of Ecology and Systematics*. 52, 587 – 609 [https://doi.org/10.1146/annurev-ecolsys-011921-023644](https://doi.org/10.1146/annurev-ecolsys-011921-023644)
 
 Germain, R. M., Hart, S. P., Turcotte, M. M., Otto, S. P., Sakarchi, J., Rolland, J., Usui, T., Angert, A. L., Schluter, D., Bassar, R. D., Waters, M. T., **Henao-Diaz, L. F.**, & Siepielski, A. M. (2020). On the Origin of Coexisting Species. *Trends in Ecology & Evolution*. 36(4), 284 – 293. 
 [https://doi.org/10.1016/j.tree.2020.11.006](https://doi.org/10.1016/j.tree.2020.11.006)

@@ -3,13 +3,13 @@ title: "Research"
 layout: single
 permalink: /research/
 ---
-# 
 
 # Spatial Phylogenetics of the North American Flora
-**Understanding phylo-endemicity in woody conifers across North America*
+**Understanding phylo-endemicity in woody conifers across North America**
 <figure>
   <img src="/assets/images/rand_ses_conif_10.png" alt="Spatial Phylogenetics" />
-  <figcaption> Standardized effect size alpha-phylodiversity metrics. Phylogenetic Diversity (PD), Relative Phylogenetic Diversity (RPD), Phylogenetic Endemism (PE), Relative Phylogenetic Endemism (RPE). Source: Henao‑Díaz et al. in prep </figcaption>
+  <figcaption> Alpha-phylodiversity metrics. Phylogenetic Diversity (PD), Relative Phylogenetic Diversity (RPD), Phylogenetic Endemism (PE), Relative Phylogenetic Endemism (RPE).<br> 
+  Standardized effect size (SES) after unconstrained randomization. Source: Henao‑Díaz et al. in prep </figcaption>
 </figure>
 
 
@@ -17,7 +17,7 @@ permalink: /research/
 
 <figure>
   <img src="/assets/images/canaper_mcc_sd_prun_mthd-rand_imp.png" alt="Spatial Phylogenetics" />
-  <figcaption> Robustness for CANAPE results as a function of the proportion of tips removed, using random, phylogenetically-biased, or spatially-biased pruning, showing different imputation approaches. Points are mean values across 100 simulations, whiskers show standard deviation. Source: Henao‑Díaz et al. 2026 GEB </figcaption>
+  <figcaption> Robustness for CANAPE results as a function of the proportion of tips removed, using random, phylogenetically-biased, or spatially-biased pruning, showing different imputation approaches. Points are mean values across 100 simulations, whiskers show standard deviation.[Henao‑Díaz et al. 2026 GEB](http://dx.doi.org/10.1111/geb.70323)</figcaption>
 </figure>
 
 **Aim:** Spatial phylogenetic tools offer an evolutionary and geographical picture of biodiversity by characterizing its multidimensional facets. Although phylogenetic trees are becoming increasingly comprehensive, they still represent only a fraction of the known terminal taxa in any biota. As an attempt to improve sample coverage, missing taxa are frequently imputed into a backbone phylogeny using their taxonomic classification. Here, we evaluated the effects of both incomplete taxon sampling and phylogenetic imputation on the quantitative, spatial patterns of phylodiversity.<br>

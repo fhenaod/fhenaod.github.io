@@ -17,7 +17,7 @@ permalink: /research/
 
 <figure>
   <img src="/assets/images/canaper_mcc_sd_prun_mthd-rand_imp.png" alt="Spatial Phylogenetics" />
-  <figcaption> Robustness for CANAPE results as a function of the proportion of tips removed, using random, phylogenetically-biased, or spatially-biased pruning, showing different imputation approaches. Points are mean values across 100 simulations, whiskers show standard deviation.[Henao‑Díaz et al. 2026 GEB](http://dx.doi.org/10.1111/geb.70323) </figcaption>
+  <figcaption markdown="span"> Robustness for CANAPE results as a function of the proportion of tips removed, using random, phylogenetically-biased, or spatially-biased pruning, showing different imputation approaches. Points are mean values across 100 simulations, whiskers show standard deviation. [Henao‑Díaz et al. 2026 GEB](http://dx.doi.org/10.1111/geb.70323) </figcaption>
 </figure>
 
 **Aim:** Spatial phylogenetic tools offer an evolutionary and geographical picture of biodiversity by characterizing its multidimensional facets. Although phylogenetic trees are becoming increasingly comprehensive, they still represent only a fraction of the known terminal taxa in any biota. As an attempt to improve sample coverage, missing taxa are frequently imputed into a backbone phylogeny using their taxonomic classification. Here, we evaluated the effects of both incomplete taxon sampling and phylogenetic imputation on the quantitative, spatial patterns of phylodiversity.<br>
